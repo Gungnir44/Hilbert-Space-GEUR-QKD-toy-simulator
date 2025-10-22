@@ -1,0 +1,15 @@
+{
+  "P_BASIS": [
+    0.88,
+    0.06,
+    0.06
+  ],
+  "CHANNEL_ERROR": 0.003,
+  "USE_AD": true,
+  "USE_AD_WEIGHTED": true,
+  "AD_BLOCK_SIZE": 4,
+  "EC_EFFICIENCY": 1.05,
+  "AD_PARITY_LEAK": false,
+  "AD_SCORE_THRESH": 3.2,
+  "EVE_STRENGTH": 0.2
+}
